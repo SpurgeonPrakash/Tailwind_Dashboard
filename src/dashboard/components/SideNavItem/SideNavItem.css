@@ -1,0 +1,5 @@
+.active {
+  box-shadow: 0 0 2px 0 hsl(204, 5%, 38%);
+  font-weight: bold;
+  color: #4f46e5 !important;
+}
